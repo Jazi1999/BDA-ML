@@ -1,8 +1,6 @@
 # sparkml-model-deployment
 End-to-end prediction model development using PySpark with Docker and Streamlit
 
-### Adapted from the book 'Applied Data Science using PySpark' from R. Kakarla, S. Krishnan and S. Alla
-
 # Use Case
 
 Development and deployment of a Random Forest Classifier using Spark ML to determine loan approval success based on individual profile and default status
